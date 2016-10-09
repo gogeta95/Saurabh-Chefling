@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Saurabh Chefling</string>
+    <string name="recipe_upload">Recipe Upload</string>
+    <string name="done">Done</string>
+    <string name="error_msg">Something went wrong.</string>
+    <string name="cam_perm_required">Camera Permission needed to open camera.</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="recipe_type">Recipe Type</string>
+    <string name="beginner">Beginner</string>
+    <string name="sous_chef">Sous Chef</string>
+    <string name="master">Master</string>
+    <string name="notes">Notes..</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="fa_users" translatable="false">{fa-users} :</string>
+    <string name="fa_clock_o" translatable="false">{fa-clock-o} :</string>
+    <string name="duration">Cooking time</string>
+</resources>
